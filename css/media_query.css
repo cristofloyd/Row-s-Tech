@@ -1,5 +1,4 @@
 @charset "utf-8";
-
 /* CSS Document */
 @media(min-width:320px) and (max-width:480px) {
 .padding_786 {
@@ -83,14 +82,13 @@
 	height: 200px;
 	width: 100%;
 }
-.fh5co_suceefh5co_height {
-	height: auto;
-	overflow: hidden;
+.fh5co_suceefh5co_height{
+	height: 100%;
 	width: 100%;
 	position: relative;
 }
-.fh5co_suceefh5co_height > img {
-	height: auto;
+.fh5co_suceefh5co_height>img {
+	height: 100%;
 	width: 100%;
 }
 .fh5co_suceefh5co_height_position_absolute_font {
@@ -238,5 +236,6 @@
 }
 .fh5co_good_font_2 {
 	font-size: 14px;
+}
 }
 }
