@@ -177,8 +177,8 @@ a,a:hover{
 .fh5co_suceefh5co_height>img{
     height:550px;
     width:100%;
+    border: 5px solid white;
 }
-
 .paddding{
     padding-left:0 !important;
     padding-right:0 !important;
